@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: David Layardi
+title: John Doe Layardi
 ---
-# David Layardi
+# John Doe Layardi
 Cloud Infrastructure, Automation, DevOps Engineer.
 
 <div id="webaddress">
@@ -16,7 +16,7 @@ Cloud Infrastructure, Automation, DevOps Engineer.
 
 ## Profile Summary
 
-Indonesian, speaks native Bahasa & intermediate English. Passionate as an application developer since 2011 in various web application development with soft skills that I built up from 5-year organizational experience in analytical thinking, problem-solving, and collaboration.
+Lorem, speaks native Bahasa & intermediate English. Passionate as an application developer since 2011 in various web application development with soft skills that I built up from 5-year organizational experience in analytical thinking, problem-solving, and collaboration.
 
 Since 2018, I've successfully delivered automation-based innovation to solve business problems for more than 10 professional projects. Now I'm focused on infrastructure & automation by implementing the DevOps culture to improve software engineer productivity. 
 
